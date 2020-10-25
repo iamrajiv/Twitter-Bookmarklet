@@ -28,7 +28,7 @@ To install the script, simply go [Twitter Bookmarklet](https://iamrajiv.github.i
 
 ## Example Usage
 
-<p align="center"><img src="assets/demo.gif" height="300px" width="300px" /></p>
+<p align="center"><img src="" height="300px" width="300px" /></p>
 
 ## License
 
