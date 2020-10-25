@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="assets/logo.svg" height=400" width="400" />
-  <br />
-  <h1>Twitter Bookmarklet</h1>
-  <p align="center">
-    A simple bookmarklet that can be saved into the browser's bookmarks bar
-  </p>
-  <a href="https://github.com/iamrajiv/Twitter-Bookmarklet/network"
-    ><img src="https://img.shields.io/github/forks/iamrajiv/Twitter-Bookmarklet?color=d52737&style=for-the-badge"
-  /></a>
-  <a href="https://github.com/iamrajiv/Twitter-Bookmarklet/stargazers"
-    ><img src="https://img.shields.io/github/stars/iamrajiv/Twitter-Bookmarklet?color=d52737&style=for-the-badge"
-  /></a>
-  <a href="https://github.com/iamrajiv/Twitter-Bookmarklet/blob/master/LICENSE"
-    ><img src="https://img.shields.io/github/license/iamrajiv/Twitter-Bookmarklet?color=d52737&style=for-the-badge"
-  /></a>
+<img src="assets/logo.svg" height=400" width="400" />
+<br />
+<h1>Twitter Bookmarklet</h1>
+<p align="center">
+A simple bookmarklet that can be saved into the browser's bookmarks bar
+</p>
+<a href="https://github.com/iamrajiv/Twitter-Bookmarklet/network">
+<img src="https://img.shields.io/github/forks/iamrajiv/Twitter-Bookmarklet?color=d52737&style=for-the-badge"/>
+</a>
+<a href="https://github.com/iamrajiv/Twitter-Bookmarklet/stargazers">
+<img src="https://img.shields.io/github/stars/iamrajiv/Twitter-Bookmarklet?color=d52737&style=for-the-badge"/>
+</a>
+<a href="https://github.com/iamrajiv/Twitter-Bookmarklet/blob/master/LICENSE">
+<img src="https://img.shields.io/github/license/iamrajiv/Twitter-Bookmarklet?color=d52737&style=for-the-badge"/>
+</a>
 </div>
 
 ## About Project
