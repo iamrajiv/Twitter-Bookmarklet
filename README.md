@@ -22,9 +22,11 @@ A simple bookmarklet or a script that can be saved into the browser's bookmarks 
 
 Twitter allows to use <a href="https://twitter.com/search-advanced?lang=en">Advanced Search</a> to find tweets with minimum retweets or likes.
 
-## Installation & Setup
+## Demonstration
 
-To install the script, simply go [Twitter Bookmarklet](https://iamrajiv.github.io/Twitter-Bookmarklet/) page and drag your favorite filters into the bookmarks bar. Next time when you are browsing twitter profile - click on the bookmark.
+To install the script, simply drag your favourite filters into the bookmarks bar. Next time when you are browsing twitter profile click on the bookmark.
+
+<a href="https://iamrajiv.github.io/Twitter-Bookmarklet/">Run Project</a>
 
 ## Example Usage
 
