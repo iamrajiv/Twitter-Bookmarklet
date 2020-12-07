@@ -22,10 +22,6 @@ To install the script, simply drag your favourite filters into the bookmarks bar
 
 <a href="https://iamrajiv.github.io/Twitter-Bookmarklet/">Run Project</a>
 
-## Example Usage
-
-<p align="center"><img src="" height="300px" width="300px" /></p>
-
 ## License
 
 [MIT](https://github.com/iamrajiv/Twitter-Bookmarklet/blob/master/LICENSE)
