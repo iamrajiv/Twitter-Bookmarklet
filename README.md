@@ -2,7 +2,7 @@
 <img src="assets/logo.svg" width="400" />
 <br />
 <h1>Twitter Bookmarklet</h1>
-<p align="center">
+<p>
 A simple bookmarklet that can be saved into the browser's bookmarks bar
 </p>
 <a href="https://github.com/iamrajiv/Twitter-Bookmarklet/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/Twitter-Bookmarklet?color=0366d6&style=for-the-badge" /></a>
