@@ -5,9 +5,9 @@
 <p align="center">
 A simple bookmarklet that can be saved into the browser's bookmarks bar
 </p>
-<a href="https://github.com/iamrajiv/Twitter-Bookmarklet/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/Twitter-Bookmarklet?color=0366d6&style=for-the-badge"/></a>
-<a href="https://github.com/iamrajiv/Twitter-Bookmarklet/stargazers"><img src="https://img.shields.io/github/stars/iamrajiv/Twitter-Bookmarklet?color=0366d6&style=for-the-badge"/></a>
-<a href="https://github.com/iamrajiv/Twitter-Bookmarklet/blob/master/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/Twitter-Bookmarklet?color=0366d6&style=for-the-badge"/></a>
+<a href="https://github.com/iamrajiv/Twitter-Bookmarklet/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/Twitter-Bookmarklet?color=0366d6&style=for-the-badge" /></a>
+<a href="https://github.com/iamrajiv/Twitter-Bookmarklet/stargazers"><img src="https://img.shields.io/github/stars/iamrajiv/Twitter-Bookmarklet?color=0366d6&style=for-the-badge" /></a>
+<a href="https://github.com/iamrajiv/Twitter-Bookmarklet/blob/master/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/Twitter-Bookmarklet?color=0366d6&style=for-the-badge" /></a>
 </div>
 
 ## About Project
