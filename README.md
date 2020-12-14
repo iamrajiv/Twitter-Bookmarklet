@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/logo.svg" width="400" />
+<img src="assets/twitter-bookmarklet.svg" width="400" />
 <br />
 <h1>Twitter Bookmarklet</h1>
 <p>
