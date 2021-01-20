@@ -20,7 +20,7 @@ Twitter allows to use <a href="https://twitter.com/search-advanced?lang=en">Adva
 
 To install the script, simply drag your favourite filters into the bookmarks bar. Next time when you are browsing twitter profile click on the bookmark.
 
-<a href="https://iamrajiv.github.io/Twitter-Bookmarklet/">Run Project</a>
+<a href="https://iamrajiv.github.ioTwitter-Bookmarklet/">Run Project</a>
 
 ## License
 
