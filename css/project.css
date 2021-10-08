@@ -1,0 +1,19 @@
+a.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  height: 24px;
+  border: 1px solid;
+  margin: 4px;
+}
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+.buttons {
+  margin: 14px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
