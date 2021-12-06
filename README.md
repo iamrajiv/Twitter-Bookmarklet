@@ -7,7 +7,7 @@ A simple bookmarklet that can be saved into the browser's bookmarks bar
 </p>
 <a href="https://github.com/iamrajiv/Twitter-Bookmarklet/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/Twitter-Bookmarklet?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
 <a href="https://github.com/iamrajiv/Twitter-Bookmarklet/stargazers"><img src="https://img.shields.io/github/stars/iamrajiv/Twitter-Bookmarklet?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
-<a href="https://github.com/iamrajiv/Twitter-Bookmarklet/blob/master/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/Twitter-Bookmarklet?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
+<a href="https://github.com/iamrajiv/Twitter-Bookmarklet/blob/main/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/Twitter-Bookmarklet?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
 </div>
 
 ## About
@@ -24,4 +24,4 @@ To install the script, drag your favorite filters into the bookmarks bar. Then, 
 
 ## License
 
-[MIT](https://github.com/iamrajiv/Twitter-Bookmarklet/blob/master/LICENSE)
+[MIT](https://github.com/iamrajiv/Twitter-Bookmarklet/blob/main/LICENSE)
