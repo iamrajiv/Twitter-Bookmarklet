@@ -12,15 +12,15 @@ A simple bookmarklet that can be saved into the browser's bookmarks bar
 
 ## About
 
-A simple bookmarklet or a script that can be saved into the browser's bookmarks bar. When clicked on the `twitter.com/...` domain, it pre-populates advanced search settings to explore an account's most popular content quickly.
+This is a simple bookmarklet or script that can be saved into the browser's bookmarks bar. When clicked on a Twitter account's URL (such as "twitter.com/username"), it automatically pre-populates the Advanced Search settings, making it easy to quickly explore an account's most popular content.
 
-Twitter allows to use <a href="https://twitter.com/search-advanced?lang=en">Advanced Search</a> to find tweets with minimum retweets or likes.
+Twitter offers the option to use Advanced Search to find tweets with a minimum number of retweets or likes. By using this bookmarklet or script, you can quickly access this feature and search for the most popular content from a specific account.
 
 ## Demonstration
 
-To install the script, drag your favorite filters into the bookmarks bar. Then, next time when you are browsing your Twitter profile, click on the bookmark.
+To install the script, simply drag the bookmarklet into your browser's bookmarks bar. Next time you are browsing a Twitter profile, click on the bookmarklet.
 
-<a href="https://iamrajiv.github.ioTwitter-Bookmarklet/">Run Project</a>
+[Run Project](https://iamrajiv.github.io/Twitter-Bookmarklet)
 
 ## License
 
